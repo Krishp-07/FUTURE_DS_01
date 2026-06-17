@@ -209,6 +209,7 @@ Business-Sales-Performance-Analytics/
 ## Dashboard Preview
 
 *The dashboard supports interactive filtering by Category and Region.
+<img width="991" height="566" alt="image" src="https://github.com/user-attachments/assets/b0c19315-a76e-4e2d-aca1-e7f4cbfb53ee" />
 
 ---
 
